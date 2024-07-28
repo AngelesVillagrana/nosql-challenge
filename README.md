@@ -3,7 +3,7 @@ This is for the homework 12 of the bootcamp
 
 ## Overview
 
-This repository contains two Jupyter Notebooks designed to help you set up and analyze NoSQL databases, specifically using MongoDB. The notebooks included are:
+This repository contains two Jupyter Notebooks designed to help to set up and analyze NoSQL databases, specifically using MongoDB. The notebooks included are:
 
 1. `NoSQL_setup_starter.ipynb`
 2. `NoSQL_analysis_starter.ipynb`
